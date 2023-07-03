@@ -1,6 +1,5 @@
-# Cartaz Filme
 # Sobre o projeto
-## Avaliacao Final de Modulo - Programacao Front-End II
+## Cartaz Filme
 
 Este é um projeto de um programa de recados que consiste em uma tela de login e senha e é possível fazer cadastro, tudo é salvo no localStroge.
 Ele insere o recado com descrição e pode ser editado e apagado.
