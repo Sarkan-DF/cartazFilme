@@ -1,10 +1,10 @@
 # Sobre o projeto
 ## Cartaz Filme
 
-Este é um projeto de um programa de recados que consiste em uma tela de login e senha e é possível fazer cadastro, tudo é salvo no localStroge.
-Ele insere o recado com descrição e pode ser editado e apagado.
+Este é um projeto de uma pagina de divulgação do filme Avatar feito em HTML, CSS e animation.
+Nela mostro o uso da Animation nas trasições e movimentos.
 
-Usei HTML, CSS, JavaScrip e BootsTrap, como a proposta era usar bastante BootsTrap para conhecermos a documentação.
+Usei HTML, CSS e Animations.
 
 ### Link para o Projeto: <https://recados2-igormatos.surge.sh/>
 
