@@ -1,8 +1,8 @@
 # Sobre o projeto
 ## Cartaz Filme
 
-Este é um projeto de uma pagina de divulgação do filme Avatar feito em HTML, CSS e animation.
-Nela mostro o uso da Animation nas trasições e movimentos.
+Este é um projeto de uma página de divulgação do filme Avatar feito em HTML, CSS e animation.
+Nela mostro o uso da Animation nas transições e movimentos.
 
 Usei HTML, CSS e Animations.
 
